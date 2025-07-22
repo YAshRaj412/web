@@ -1,15 +1,4 @@
 
-##############
-#### Deep Charts Youtube Channel: https://www.youtube.com/@DeepCharts
-#### Subscribe for more AI/Machine Learning/Quant Finance Tutorials
-##############
-
-
-##############
-### PART 1 ###
-# LIBRARIES ##
-# & OLLAMA  ##
-##############
 
 # Data Importing Libraries
 import yfinance as yf
